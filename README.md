@@ -1,1 +1,0 @@
-Обкатываем библиотеки Python для DataScience
